@@ -3,3 +3,5 @@ opencv-python
 numpy
 Image
 opencv-python-headless
+freeglut3-dev
+libgtk2.0-dev
